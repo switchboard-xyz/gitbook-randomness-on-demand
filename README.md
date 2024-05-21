@@ -41,7 +41,7 @@ _If randomness cannot be sourced on chain, then let's grab some randomness off c
 
 You know what's really good at fetching off-chain information for blockchains?
 
-<figure><img src=".gitbook/assets/secrets-giphy-1.gif" alt=""><figcaption><p>Yepppp</p></figcaption></figure>
+<figure><img src=".gitbook/assets/randomness-giphy-1.gif" alt=""><figcaption><p>Yepppp</p></figcaption></figure>
 
 You guessed it: ORACLES
 
@@ -49,7 +49,7 @@ Oracle's are a common component in blockchain applications for not only data pro
 
 Great, we've figured it all out right?&#x20;
 
-<figure><img src=".gitbook/assets/secrets-giphy-2.gif" alt=""><figcaption><p>Well, not exactly...</p></figcaption></figure>
+<figure><img src=".gitbook/assets/randomness-giphy-2.gif" alt=""><figcaption><p>Well, not exactly...</p></figcaption></figure>
 
 Oracle's don't always get this right..
 
