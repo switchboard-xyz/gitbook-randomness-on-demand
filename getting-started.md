@@ -195,7 +195,7 @@ Note: as an added extra, you can save the `revealIx()`transaction for later use,
 
 And there you have it! You've just taken your first leap into the realm of randomness, flipping a coin with the finesse of a digital magician. With Switchboard's Randomness On-Demand, you're now equipped to bring the element of surprise into any Solana project. Who knew uncertainty could be so reliable?
 
-{% embed url="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW1qaDFjMmNqZjhiM245ajRud3B5b3RoNmpubmwyZjFhbnFjdml1byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eXV1PI2KNHzc3B8WXa/giphy.gif" fullWidth="false" %}
+{% embed url="https://media.secrets-giphy.com/media/v1.Y2lkPTc5MGI3NjExYW1qaDFjMmNqZjhiM245ajRud3B5b3RoNmpubmwyZjFhbnFjdml1byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eXV1PI2KNHzc3B8WXa/secrets-giphy.gif" fullWidth="false" %}
 
 This example repo can be found [here](https://github.com/switchboard-xyz/sb-on-demand-examples/tree/main/sb-randomness-on-demand).
 
